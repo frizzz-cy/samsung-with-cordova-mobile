@@ -1,0 +1,1 @@
+# samsung-with-cordova-mobile
